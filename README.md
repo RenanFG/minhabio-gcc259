@@ -12,3 +12,5 @@ Tecnologia Front-end:
  - Angular([https://angular.io/])
  - Jquery([https://jquery.com/])
  - HTML CSS Javascript([https://www.w3schools.com/html/])
+
+![Desenvolvedor](coding.jpg)
